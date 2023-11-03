@@ -23,4 +23,4 @@ Staff
 Store  
 
 ## Visualizations
-Visualizations were created in Tableau. The link to the storyboard can be found here    https://public.tableau.com/app/profile/kirti.mundada/viz/2_9_InfluenzaSeasonPreparation1/Influenzaseasonpreparation?publish=yes
+Visualizations were created in Tableau. The link to the storyboard can be found here   https://public.tableau.com/app/profile/kirti.mundada/viz/3_10PresentingSQLResults_kirti/TopGenres?publish=yes
